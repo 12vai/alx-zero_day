@@ -1,1 +1,2 @@
-git pull https://github.com/12vai/alx-zero_day.git
+#!/bin/bash
+echo "ALX school"
